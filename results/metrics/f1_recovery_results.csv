@@ -1,0 +1,7 @@
+condition,baseline_f1,normalized_f1,f1_change,f1_loss,f1_recovered,recovery_percentage
+leetspeak,77.84,79.43,1.59,8.51,1.59,18.68
+punctuation,80.68,81.63,0.95,5.67,0.95,16.75
+spacing,79.42,80.53,1.11,6.93,1.11,16.02
+repetition,79.32,79.85,0.53,7.03,0.53,7.54
+deletion,80.57,80.57,0.0,5.78,0.0,0.0
+mixed,79.85,79.7,-0.15,6.5,-0.15,-2.31

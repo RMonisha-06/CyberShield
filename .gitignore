@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+.DS_Store
+
+# Model checkpoints and generated models
+*.keras
+*.h5
+*.pt
+*.pth
+*.pkl
+
+# Optional: uncomment if you do not want to upload datasets
+# data/raw/
+# data/processed/

@@ -1,0 +1,8 @@
+condition,baseline_f1,normalized_f1,f1_change
+clean,86.35,86.35,0.0
+leetspeak,77.84,79.43,1.59
+punctuation,80.68,81.63,0.95
+spacing,79.42,80.53,1.11
+repetition,79.32,79.85,0.53
+deletion,80.57,80.57,0.0
+mixed,79.85,79.7,-0.15

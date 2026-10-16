@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas
+scikit-learn
+matplotlib
+seaborn
+nltk
+tensorflow==2.21.0
+flask
+flask-cors
